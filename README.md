@@ -21,6 +21,10 @@ Integrations
   or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/),
   and [creating pages](https://jekyllrb.com/docs/pages/).
 
+  To Develop locally change the dev config:  
+
+      $ jekyll serve  --config _config.yml,_config_dev.yml
+
 ## License
 
 GNU General Public License v3.0
